@@ -198,7 +198,7 @@ GameObject:
   - component: {fileID: 66438443}
   - component: {fileID: 66438445}
   m_Layer: 5
-  m_Name: zigzagPanel
+  m_Name: zigPanel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1457,7 +1457,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Tap To Start '
+  m_Text: 'Click To Start '
 --- !u!222 &1377634520
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2338,7 +2338,7 @@ GameObject:
   - component: {fileID: 2032296334}
   - component: {fileID: 2032296333}
   m_Layer: 5
-  m_Name: zigzagb
+  m_Name: Title
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2394,7 +2394,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Zig N Zag
+  m_Text: Zigky Ball
 --- !u!222 &2032296334
 CanvasRenderer:
   m_ObjectHideFlags: 0
